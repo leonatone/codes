@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T03:16:19.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="axsqwhPcNJ2b4iVGpMMt" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T03:02:06.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="3KNQvUFEDU1uauDHyu9L" version="16.0.0" type="github">
   <diagram id="UypYDCY0DTO_qoeUGzVr" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,7 +331,7 @@
         <mxCell id="vBZXi1XHdykudHTi2sjK-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=4;" parent="1" source="vBZXi1XHdykudHTi2sjK-6" target="vBZXi1XHdykudHTi2sjK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vBZXi1XHdykudHTi2sjK-6" value="创建对应的config map、statefulset service pvc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vBZXi1XHdykudHTi2sjK-6" value="创建对应的Config map、StatefulSet、 Service、PVC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1192" y="700.5" width="110" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vBZXi1XHdykudHTi2sjK-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;" parent="1" source="vBZXi1XHdykudHTi2sjK-9" target="vBZXi1XHdykudHTi2sjK-12" edge="1">
@@ -340,7 +340,7 @@
         <mxCell id="vBZXi1XHdykudHTi2sjK-9" value="确保集群健康" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1322" y="700.5" width="110" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="vBZXi1XHdykudHTi2sjK-12" value="更新出口service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="vBZXi1XHdykudHTi2sjK-12" value="更新出口Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1452" y="700.5" width="150" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vBZXi1XHdykudHTi2sjK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;" parent="1" source="vBZXi1XHdykudHTi2sjK-15" target="vBZXi1XHdykudHTi2sjK-19" edge="1">
@@ -358,7 +358,7 @@
         <mxCell id="vBZXi1XHdykudHTi2sjK-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=4;" parent="1" source="vBZXi1XHdykudHTi2sjK-19" target="vBZXi1XHdykudHTi2sjK-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vBZXi1XHdykudHTi2sjK-19" value="创建对应的config map、statefulset service pvc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vBZXi1XHdykudHTi2sjK-19" value="创建对应的Config map、StatefulSet、 Service、PVC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1190" y="910.5" width="110" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vBZXi1XHdykudHTi2sjK-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;" parent="1" source="vBZXi1XHdykudHTi2sjK-22" target="vBZXi1XHdykudHTi2sjK-24" edge="1">
@@ -370,7 +370,7 @@
         <mxCell id="vBZXi1XHdykudHTi2sjK-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;" parent="1" source="vBZXi1XHdykudHTi2sjK-24" target="vBZXi1XHdykudHTi2sjK-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vBZXi1XHdykudHTi2sjK-24" value="创建proxy deployment 、configmap 、service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vBZXi1XHdykudHTi2sjK-24" value="创建Proxy Deployment 、Configmap 、Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1450" y="910.5" width="150" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vBZXi1XHdykudHTi2sjK-26" value="确保代理健康" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
@@ -538,7 +538,7 @@
         <mxCell id="kbs5MmynTdJbmjTBHLfn-26" value="operator-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="209" y="1070" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yNZsDYKGwDQGtXQt9cwg-2" value="Deployment" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="yNZsDYKGwDQGtXQt9cwg-2" value="Deployment" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="353.97" y="1222.25" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
