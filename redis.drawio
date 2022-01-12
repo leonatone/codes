@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:19:51.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="hGqflc88_hHsMiHjs_T4" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:20:20.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="jCedE9zy2Ra5crEwpzlJ" version="16.1.2" type="github">
   <diagram id="45r2YLanDA78DfzZ4tow" name="第 1 页">
     <mxGraphModel dx="1237" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -107,9 +107,6 @@
         <mxCell id="iW9RcpAypNcfmbrvbA0N-39" value="集群修复后变成Healthy" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="305" y="920" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iW9RcpAypNcfmbrvbA0N-40" value="集群版状态转换&lt;br style=&quot;font-size: 14px;&quot;&gt;英文为接口中status的值" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iW9RcpAypNcfmbrvbA0N-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="iW9RcpAypNcfmbrvbA0N-42" target="iW9RcpAypNcfmbrvbA0N-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -128,8 +125,14 @@
         <mxCell id="iW9RcpAypNcfmbrvbA0N-53" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px ; background-color: rgb(255 , 0 , 0)&quot;&gt;中间状态&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="955" y="440" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iW9RcpAypNcfmbrvbA0N-54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;状态转换&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;英文为接口中status的值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="iW9RcpAypNcfmbrvbA0N-54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;英文为接口中status的值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iW9RcpAypNcfmbrvbA0N-55" value="集群版" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iW9RcpAypNcfmbrvbA0N-56" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;英文为接口中status的值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
