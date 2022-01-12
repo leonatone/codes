@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:20:20.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="jCedE9zy2Ra5crEwpzlJ" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:20:46.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="J0kbDu6tL8jY_aGz2ZFF" version="16.1.2" type="github">
   <diagram id="45r2YLanDA78DfzZ4tow" name="第 1 页">
     <mxGraphModel dx="1237" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -48,8 +48,8 @@
         <mxCell id="iW9RcpAypNcfmbrvbA0N-12" value="Updating(常规节点重启)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="940" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iW9RcpAypNcfmbrvbA0N-15" value="修复后就会变成Healthy，唯一失败的情况：出现有两个主，无法选出主节点" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="480" height="20" as="geometry" />
+        <mxCell id="iW9RcpAypNcfmbrvbA0N-15" value="修复后就会变成Healthy，唯一失败的情况：&lt;br&gt;出现有两个主，无法选出主节点" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iW9RcpAypNcfmbrvbA0N-25" value="标准版" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
